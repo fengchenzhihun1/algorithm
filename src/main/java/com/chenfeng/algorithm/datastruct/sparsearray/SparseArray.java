@@ -6,4 +6,5 @@ package com.chenfeng.algorithm.datastruct.sparsearray;
  */
 public class SparseArray {
 
+
 }
